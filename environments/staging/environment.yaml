@@ -14,6 +14,7 @@ app:
   #  groupId: net.wasdev.wlp.sample
   #  artifactId: ferret
   #  version: "1.2"
+  
   #  type: war
 
   # Set minimum and maximum number of instances of the application. 
